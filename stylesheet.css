@@ -75,9 +75,7 @@ button:link,button:visited{text-decoration:none;
 button:hover,button:active{ background-color: #bedddb;
 color:#ffffff;
 text-decoration:none ;}
-.button-link{
-    text-decoration: none;
-}
+
 .button-link:link,button-link:visited {text-decoration: none;}
 
 .copyright-img{
