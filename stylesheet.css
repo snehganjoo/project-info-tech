@@ -60,7 +60,7 @@ margin:30px auto;}
     padding:30px;
 }
 
-.button{background-color: #ffffff;
+button{background-color: #ffffff;
     display:inline-block;
     color: black;
     border:none;
@@ -70,12 +70,12 @@ margin:30px auto;}
     margin:0 auto;
     text-decoration:none;
 }
-.button:link,.button:visited{text-decoration:none;
+button:link,button:visited{text-decoration:none;
 }
-.button:hover,.button:active{ background-color: #bedddb;
+button:hover,button:active{ background-color: #bedddb;
 color:#ffffff;
 text-decoration:none ;}
-.button-link:link,.button-link:visited {text-decoration: none;}
+button-link:link,button-link:visited {text-decoration: none;}
 
 .copyright-img{
     max-height:30px;
