@@ -76,8 +76,6 @@ button:hover,button:active{ background-color: #bedddb;
 color:#ffffff;
 text-decoration:none ;}
 
-.button-link:link,button-link:visited {text-decoration: none;}
-
 .copyright-img{
     max-height:30px;
     max-width:30px;
