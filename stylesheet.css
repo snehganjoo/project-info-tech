@@ -62,12 +62,12 @@ margin:30px auto;}
 
 .button{background-color: #ffffff;
     display:inline-block;
-    color: black;
+    color: #ffffff;
     border:none;
     padding:15px;
-    border-radius: 24px;
+    border-radius: 20px;
     align-items: center;
-    margin:0 auto;
+    margin: 10px;
     text-decoration:none;
 }
 .button:link,.button:visited{text-decoration:none;
